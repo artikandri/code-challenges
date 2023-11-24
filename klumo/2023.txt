@@ -1,0 +1,8 @@
+Year: 2023
+Company: klunk.io
+Position: Front end developer 
+
+Task:
+The test was to create a search bar for their website with pure Javascript. 
+
+Result: https://github.com/artikandri/klumo

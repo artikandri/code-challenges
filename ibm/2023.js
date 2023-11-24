@@ -1,4 +1,10 @@
 /*
+  Year: 2023
+  Company: IBM
+  Position: Front end developer
+*/
+
+/*
   Write a function on how to sum two digits
 */
 
@@ -127,6 +133,7 @@ console.log(value);
   How to make a button rounder?
 */
 
+// Use border radius
 
 /*
   Modify the code below (the styling only)
@@ -135,6 +142,57 @@ console.log(value);
   1. Make the bottom part stick to the bottom of the page
   2. Make the black parts (buttons) goes right and overlaps with the line 
   3. Make it so that the page can be scrolled 
+*/
+
+/*
+
+Answer: 
+
+.container {
+  height: 100vh;
+  overflow: hidden;
+  position: relative; 
+}
+
+.top {
+  height: 100px;
+  background-color: red;
+}
+
+.bottom {
+  height: 100px;
+  background-color: blue;
+  width: 100%; 
+  display: block; 
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+}
+
+.row {
+  height: 50px;
+  background-color: green;
+  border: 1px solid black;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.rows {
+  display: block;
+  height: calc(100% - 200px);
+  overflow: scroll; 
+}
+
+.buttonX {
+  height: 20px;
+  width: 20px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  position: absolute;
+  top: -10px;
+}
 */
 
 

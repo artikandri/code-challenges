@@ -1,0 +1,7 @@
+Year: 2022
+Company: ITransition
+Position: Internships
+
+Task:
+There were multiple tests and tasks to do. 
+Accessible at https://github.com/artikandri/itransition_2022 

@@ -1,0 +1,8 @@
+Year: 2020
+Company: Niagahoster
+Position: Front end developer 
+
+Task: 
+Recreate their landing page in 3 days with Laravel + Bootstrap + Vue.js 
+
+Result: https://github.com/artikandri/NHFrontendTest

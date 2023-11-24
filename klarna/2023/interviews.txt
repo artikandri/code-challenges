@@ -1,0 +1,12 @@
+Year: 2023
+Company: Klarna
+Position: Senior Javascript developer
+
+Task: 
+There are multiple rounds and tests to do: 
+1. Two Leetcode tasks 
+2. Architecture interview. You are given a design and asked how would you structure the code from start to end. 
+3. Coding interview. We are given a React codebase and we are asked to fiddle with it according to the instructor's instruction in our codespace. 
+4. Behavioral interview
+
+    
